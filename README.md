@@ -5,6 +5,17 @@
 [![CI](https://github.com/Milonahmed96/voltex-shopfloor/actions/workflows/ci.yml/badge.svg)](https://github.com/Milonahmed96/voltex-shopfloor/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Tests](https://img.shields.io/badge/tests-37%20passing-brightgreen)
+[![Live Demo](https://img.shields.io/badge/live%20demo-streamlit-FF4B4B)](https://voltex-shopfloor-ma.streamlit.app/)
+
+## Live Demo
+
+🚀 **[Try Voltex ShopFloor Analyst here](https://voltex-shopfloor-ma.streamlit.app/)**
+
+> **Suggested test stores:**
+> - **S06 Reading** on `2026-02-16` — VoltCare attach collapse after staff change
+> - **S03 Croydon** on any date — browse-not-buy conversion crisis
+> - **S15 Newcastle** on `2026-02-21` (Saturday) — weekend staffing and NPS problem
+> - **S17 Sheffield** on `2026-03-16` — recovery store trend
 
 ---
 
