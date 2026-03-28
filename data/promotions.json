@@ -1,0 +1,137 @@
+[
+  {
+    "id": "P01",
+    "name": "January Tech Sale",
+    "start_date": "2026-01-05",
+    "end_date": "2026-01-18",
+    "scope": "network",
+    "categories": [
+      "computing",
+      "tv_audio"
+    ],
+    "uplift": 0.25,
+    "stores": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S05",
+      "S06",
+      "S07",
+      "S08",
+      "S09",
+      "S10",
+      "S11",
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S16",
+      "S17",
+      "S18",
+      "S19",
+      "S20"
+    ]
+  },
+  {
+    "id": "P02",
+    "name": "VoltCare February Offer",
+    "start_date": "2026-02-02",
+    "end_date": "2026-02-16",
+    "scope": "network",
+    "categories": [
+      "computing",
+      "white_goods"
+    ],
+    "uplift": 0.15,
+    "stores": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S05",
+      "S06",
+      "S07",
+      "S08",
+      "S09",
+      "S10",
+      "S11",
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S16",
+      "S17",
+      "S18",
+      "S19",
+      "S20"
+    ]
+  },
+  {
+    "id": "P03",
+    "name": "Midlands White Goods Event",
+    "start_date": "2026-02-16",
+    "end_date": "2026-03-02",
+    "scope": "regional",
+    "categories": [
+      "white_goods"
+    ],
+    "uplift": 0.3,
+    "stores": [
+      "S08",
+      "S09",
+      "S10",
+      "S11"
+    ]
+  },
+  {
+    "id": "P04",
+    "name": "Gaming Spring Launch",
+    "start_date": "2026-03-02",
+    "end_date": "2026-03-16",
+    "scope": "network",
+    "categories": [
+      "gaming"
+    ],
+    "uplift": 0.35,
+    "stores": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S05",
+      "S06",
+      "S07",
+      "S08",
+      "S09",
+      "S10",
+      "S11",
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S16",
+      "S17",
+      "S18",
+      "S19",
+      "S20"
+    ]
+  },
+  {
+    "id": "P05",
+    "name": "Scotland Spring Event",
+    "start_date": "2026-03-09",
+    "end_date": "2026-03-23",
+    "scope": "regional",
+    "categories": [
+      "computing",
+      "phones"
+    ],
+    "uplift": 0.2,
+    "stores": [
+      "S18",
+      "S19",
+      "S20"
+    ]
+  }
+]

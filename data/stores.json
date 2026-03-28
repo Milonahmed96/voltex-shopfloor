@@ -1,0 +1,162 @@
+[
+  {
+    "id": "S01",
+    "name": "Voltex Westfield",
+    "city": "London",
+    "region": "London",
+    "tier": "large",
+    "sqft": 28000
+  },
+  {
+    "id": "S02",
+    "name": "Voltex Oxford Street",
+    "city": "London",
+    "region": "London",
+    "tier": "large",
+    "sqft": 24000
+  },
+  {
+    "id": "S03",
+    "name": "Voltex Croydon",
+    "city": "London",
+    "region": "London",
+    "tier": "medium",
+    "sqft": 14000
+  },
+  {
+    "id": "S04",
+    "name": "Voltex Bromley",
+    "city": "London",
+    "region": "London",
+    "tier": "medium",
+    "sqft": 12000
+  },
+  {
+    "id": "S05",
+    "name": "Voltex Brighton",
+    "city": "Brighton",
+    "region": "South East",
+    "tier": "large",
+    "sqft": 18000
+  },
+  {
+    "id": "S06",
+    "name": "Voltex Reading",
+    "city": "Reading",
+    "region": "South East",
+    "tier": "medium",
+    "sqft": 13000
+  },
+  {
+    "id": "S07",
+    "name": "Voltex Guildford",
+    "city": "Guildford",
+    "region": "South East",
+    "tier": "medium",
+    "sqft": 11000
+  },
+  {
+    "id": "S08",
+    "name": "Voltex Bullring",
+    "city": "Birmingham",
+    "region": "Midlands",
+    "tier": "large",
+    "sqft": 26000
+  },
+  {
+    "id": "S09",
+    "name": "Voltex Nottingham",
+    "city": "Nottingham",
+    "region": "Midlands",
+    "tier": "large",
+    "sqft": 19000
+  },
+  {
+    "id": "S10",
+    "name": "Voltex Leicester",
+    "city": "Leicester",
+    "region": "Midlands",
+    "tier": "medium",
+    "sqft": 12000
+  },
+  {
+    "id": "S11",
+    "name": "Voltex Coventry",
+    "city": "Coventry",
+    "region": "Midlands",
+    "tier": "small",
+    "sqft": 7000
+  },
+  {
+    "id": "S12",
+    "name": "Voltex Trafford Centre",
+    "city": "Manchester",
+    "region": "North West",
+    "tier": "large",
+    "sqft": 25000
+  },
+  {
+    "id": "S13",
+    "name": "Voltex Liverpool",
+    "city": "Liverpool",
+    "region": "North West",
+    "tier": "medium",
+    "sqft": 15000
+  },
+  {
+    "id": "S14",
+    "name": "Voltex Preston",
+    "city": "Preston",
+    "region": "North West",
+    "tier": "medium",
+    "sqft": 10000
+  },
+  {
+    "id": "S15",
+    "name": "Voltex Newcastle",
+    "city": "Newcastle",
+    "region": "North East",
+    "tier": "medium",
+    "sqft": 14000
+  },
+  {
+    "id": "S16",
+    "name": "Voltex Leeds",
+    "city": "Leeds",
+    "region": "North East",
+    "tier": "medium",
+    "sqft": 13000
+  },
+  {
+    "id": "S17",
+    "name": "Voltex Sheffield",
+    "city": "Sheffield",
+    "region": "North East",
+    "tier": "small",
+    "sqft": 8000
+  },
+  {
+    "id": "S18",
+    "name": "Voltex Glasgow",
+    "city": "Glasgow",
+    "region": "Scotland",
+    "tier": "medium",
+    "sqft": 16000
+  },
+  {
+    "id": "S19",
+    "name": "Voltex Edinburgh",
+    "city": "Edinburgh",
+    "region": "Scotland",
+    "tier": "medium",
+    "sqft": 13000
+  },
+  {
+    "id": "S20",
+    "name": "Voltex Aberdeen",
+    "city": "Aberdeen",
+    "region": "Scotland",
+    "tier": "small",
+    "sqft": 7500
+  }
+]
