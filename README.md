@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/Milonahmed96/voltex-shopfloor/actions/workflows/ci.yml/badge.svg)](https://github.com/Milonahmed96/voltex-shopfloor/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
-![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+![Tests](https://img.shields.io/badge/tests-37%20passing-brightgreen)
 
 ---
 
