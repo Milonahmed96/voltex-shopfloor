@@ -200,11 +200,11 @@ python -m pytest tests/ -v
 
 This is Project A in a three-project series simulating AI engineering for a UK omnichannel tech retailer:
 
-| Project | Repo | Description |
-|---|---|---|
-| B — Contact Centre Co-Pilot | [voltex-copilot](https://github.com/Milonahmed96/voltex-copilot) | RAG-powered agent assistant, 82% evaluation accuracy |
-| A — ShopFloor Analyst | voltex-shopfloor (this repo) | LLM store operations reasoning |
-| C — Repair Triage Agent | coming soon | LangGraph agentic repair routing |
+| Project | Repo | Demo | Key metrics |
+|---|---|---|---|
+| B — Contact Centre Co-Pilot | [voltex-copilot](https://github.com/Milonahmed96/voltex-copilot) | [Live](https://voltex-copilot-ssckdkfbuq3diathsc66z8.streamlit.app/) | 82% accuracy, 50 questions, 33 tests |
+| A — ShopFloor Analyst | [voltex-shopfloor](https://github.com/Milonahmed96/voltex-shopfloor) | [Live](https://voltex-shopfloor-ma.streamlit.app/) | 6 embedded problems, 37 tests |
+| C — Repair Triage Agent | [voltex-repair](https://github.com/Milonahmed96/voltex-repair) | [Live](https://voltex-repair-ma.streamlit.app/) | 81% accuracy, 20 scenarios, 49 tests |
 
 ---
 
